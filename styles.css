@@ -7,14 +7,15 @@ nav a {
   font-weight: 700;
 }
 
+nav a:hover {
+  color: green;
+}
+
 .navbar-default {
     border: 0px !important;
 }
 
 .navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
   font-family: 'Montserrat', serif;
   letter-spacing: 1px;
   background-color: #ecf0f1;
@@ -23,7 +24,6 @@ nav a {
 }
 
 .navbar .navbar-collapse {
-  text-align: center;
   background-color: #ecf0f1;
 }
 
