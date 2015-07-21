@@ -1,5 +1,5 @@
 body {
-  background-color: #ecf0f1;
+  background-color: white;
 }
 
 nav a {
@@ -12,23 +12,24 @@ nav a:hover {
 }
 
 .navbar-default {
+  margin-top: 60px;
     border: 0px !important;
 }
 
 .navbar .navbar-nav {
   font-family: 'Montserrat', serif;
   letter-spacing: 1px;
-  background-color: #ecf0f1;
+  background-color: white;
   font-size: 18px;
   color: black;
 }
 
 .navbar .navbar-collapse {
-  background-color: #ecf0f1;
+  background-color: white;
 }
 
 .container-fluid {
-background-color: #ecf0f1;
+background-color: white;
 }
 
 
